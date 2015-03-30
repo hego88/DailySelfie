@@ -203,7 +203,7 @@ public class SelfieListActivity extends ListActivity implements
 	private String getDate() {
 		Log.i(TAG, "getDate");
 
-		return new SimpleDateFormat("HH:mm:ss_dd.MM.yyyy").format(new Date());
+		return new SimpleDateFormat("HH.mm.ss_dd.MM.yyyy").format(new Date());
 	}
 
 }
