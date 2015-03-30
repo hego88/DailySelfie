@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Activity names -->
+    <string name="app_name">Daily Selfie</string>
+    <string name="activity_selfie_details">Single selfie</string>
+    
+    <!-- Action buttons -->
+    <string name="action_new_selfie">New Selfie</string>
+    <string name="action_delete_all">Clear Selfies</string>
+
+    <!-- Notification text -->
+    <string name="notification_tickerText">Time for selfie</string>
+    <string name="notification_contentTitle">A Kind Reminder</string>
+    <string name="notification_contentText">It\'s time to take another selfie</string>
+
+</resources>
